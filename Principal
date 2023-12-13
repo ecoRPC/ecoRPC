@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>ecoRPC</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+  </head>
+  <body class="is-preload">
+    <!-- Wrapper -->
+      <div id="wrapper">
+        <!-- Header -->
+        <header id="header">
+          <div class="logo">
+            <span class="icon fa-gem"></span>
+          </div>
+          <div class="content">
+            <div class="inner">
+              <h1>ecoRPC</h1>
+              <p>
+                ¡Bienvenido a nuestra página web! Estamos encantados de tenerte aquí. Explora, descubre y sumérgete en todo lo que tenemos para ofrecerte. ¡Esperamos que encuentres lo que buscas y que disfrutes de tu visita!
+              </p>
+            </div>
+          </div>
+          <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="sobrenosotros/index.html">Conócenos</a></li>
+                <li><a href="catalogo/catalogo.html">Catálogo</a></li>
+                <li><a href="https://forms.gle/cFECEynhv3erkcPU7">Cuestionario</a></li>
+                <li><a href="modelonegocio/index.html">Modelo De Negocio</a></li>
+                <li><a href="rsc/index.html">RSC</a></li>
+                <li><a href="contacto/index.html">Contacto</a></li>
+            </ul>
+          </nav>
+        </header>
+          <div class="content">
+            <div class="inner"><br>
+              <h1>ecoRPC</h1>
+              <p>¿Vosotros sabíais que a la semana se llena un container de grandes dimensiones de componentes informáticos que se deshace la gente, alguno de ellos con problemas básicos como por ejemplo la rotura de una fuente de alimentación?</p>
+
+              <p>EcoRPC es una ikasempresa que se dedica al montaje, mantenimiento y reparación de ordenadores, el cual ofrece un servicio de montaje de ordenadores con componentes reciclados de los puntos verdes de Vitoria-Gasteiz, un buen mantenimiento de ordenadores ecompra de ordenadores o componentes, todo a un precio económico especializado para clientes de clase baja, con el fin de ayudar al medioambiente evitando así la contaminación del planeta por dichos productos y componentes.</p>
+            </div>
+          </div>
+          <img class="pc" src="imagenes/pceco.png" alt="pcgaming" width="1300">
+        <!-- Redes Sociales -->
+        <footer><br>
+          <div class="ft-social">
+            <ul class="icons">
+              <li><a href="https://twitter.com/infoEcoRpc" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+              <li><a href="https://www.facebook.com/profile.php?id=61553741768744" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+              <li><a href="https://www.instagram.com/infoecorpc/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+              <li><a href="https://www.tiktok.com/@ecorpc?lang=es" class="icon brands fa-tiktok"><span class="label">TikTok</span></a></li>
+            </ul>
+          </div>
+          <div class="content">
+            <div class="inner">
+              <h3>Horario</h3>
+              <p>Lunes: 8:00 - 14:30</p>
+              <p>Martes: 8:00 - 14:30</p>
+              <p>Miercoles: 8:00 - 14:30</p>
+              <p>Jueves: 8:00 - 14:30</p>
+              <p>Viernes: 8:00 - 14:30</p>
+            </div>
+          </div>
+        </footer>
+      </div>
+    <!-- BG -->
+      <div id="bg"></div>
+    <!-- Scripts -->
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/browser.min.js"></script>
+      <script src="assets/js/breakpoints.min.js"></script>
+      <script src="assets/js/util.js"></script>
+      <script src="assets/js/main.js"></script>
+  </body>
+</html>
